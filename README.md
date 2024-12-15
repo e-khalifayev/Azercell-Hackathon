@@ -2,4 +2,4 @@
 
 Project: Crowdsourcing Mobile Network Speed Testing App
 
-Note: You can download projections of signal on maps and preview in your browser.
+Note: Download the map to preview in your browser.
