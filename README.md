@@ -1,2 +1,2 @@
 # Azercell-Hackathon
-Contains interactive maps. Allow some time to load.
+You can download projections of signla on maps and view in your browser.
