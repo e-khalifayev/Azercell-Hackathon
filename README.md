@@ -1,2 +1,5 @@
 # Azercell-Hackathon
-You can download projections of signla on maps and view in your browser.
+
+Project: Crowdsourcing Mobile Network Speed Testin App
+
+Note: You can download projections of signal on maps and view in your browser.
