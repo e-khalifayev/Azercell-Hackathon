@@ -11,7 +11,7 @@ Key features:
 Delaunay triangulation
 ![8](https://github.com/user-attachments/assets/e84f8255-811e-4980-aacd-2624b26b42e0)
 
-Navigation map
+Network outage map
 ![9](https://github.com/user-attachments/assets/b52ad223-837f-453b-9fb6-6a8c3ce09051)
 
 Signal interpolation
