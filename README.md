@@ -1,12 +1,10 @@
 # Azercell-Hackathon
 
-This repository is a fragment of Crowdsourcing Mobile Network Speed Testing App developped in 24 hours by 3 people.
+This repository is a fragment of Crowdsourcing Mobile Network Speed Testing App (like Speedtest by Ookla or Fast.com by Netflix) developped in 24 hours by 3 people.
 
 Credit: Seyyara Hasanova, Mahammad Taghizada.
 
-Note: Download the map to preview in your browser.
-
-Key features:
+Key dashboards:
 
 Delaunay triangulation
 ![8](https://github.com/user-attachments/assets/e84f8255-811e-4980-aacd-2624b26b42e0)
